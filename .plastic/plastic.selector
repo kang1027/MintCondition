@@ -1,0 +1,4 @@
+repository "MintCondition@a2020_K_GameJam@cloud"
+  path "/"
+    br "/main"
+    co "/main"
